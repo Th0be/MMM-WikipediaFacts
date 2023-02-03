@@ -36,7 +36,8 @@ Add the following text to ```MagicMirror/config/config.js``` to activate the mod
 | animationSpeed | ```number```  | ```2.5 * 1000``` | Animation speed of fact change (in milliseconds). |
 
 ## To do list
-Nothing
++ Filter by header
++ Filter by comments questioning fact
 
 ## Issues and pull request
 If you find any issues with this module, feel free to open a issue or to fix it and make a pull request in this repository.
