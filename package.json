@@ -1,0 +1,12 @@
+{
+    "name": "mmm-wikipediafact",
+    "version": "1.0.0",
+    "author": "Th0be",
+    "description": "Wikipedia fact module for the Magic Mirror.",
+    "license": "MIT",
+    "repository": "https://github.com/Th0be/MMM-WikipediaFact",
+    "dependencies": {
+        "axios": "latest",
+        "cheerio": "latest"
+    }
+}
