@@ -1,7 +1,7 @@
 # MMM-WikipediaFacts
 Module shows scraped facts from czech [wikipedia](https://cs.wikipedia.org/wiki/Wikipedie:Zaj%C3%ADmavosti/N%C3%A1vrhy). The module scrapes all facts at startup and then displays them randomly at a configurable interval. **Only czech language is supported !**
 
-![Wikipedia facts module screenshot](screenshots/screenshot_wikipediafacts.png)
+![Wikipedia facts module screenshot](screenshot_wikipediafacts.png)
 
 ## Installation
 Navigate into MagicMirror's modules folder using terminal:
